@@ -1,4 +1,4 @@
-Answer the following questions referring to the RealEstateAU_1000_Samples.csv file below:
+Answer the following questions referring to the RealEstateAU_1000_Samples.csv file in this repository:
 
 1. Write a SQL query that returns the mean number of bedrooms and bathrooms for each property type (mean bed and bath for House, Apartment, Unit)
 
