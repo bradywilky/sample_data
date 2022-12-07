@@ -1,4 +1,4 @@
-Answer the following questions below:
+Answer the following questions referring to the sample_data.csv file below:
 
 1. Write a SQL query that returns the mean number of bedrooms and bathrooms for each property type (mean bed and bath for House, Apartment, Unit)
 
