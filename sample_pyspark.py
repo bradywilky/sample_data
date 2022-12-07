@@ -18,6 +18,7 @@ df = spark.createDataFrame(data=data, schema = columns)
 df.withColumn("salary_band", when(col("salary_band") > 3000, "band_A").otherwise("band_B")
 
 df.show()
+----------------------------------------------------------------------------------------------------------------
 
 
 # 1) Explain what each line of code is doing

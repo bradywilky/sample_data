@@ -1,5 +1,5 @@
-1. Write a SQL query that returns the addresses of homes worth more than 1 million dollars
+Answer the following questions below:
 
-2. Write a SQL query that returns the mean number of bedrooms and bathrooms for each property type (mean bed and bath for House, Apartment, Unit)
+1. Write a SQL query that returns the mean number of bedrooms and bathrooms for each property type (mean bed and bath for House, Apartment, Unit)
 
-3. Write a SQL query that returns the third-highest price for each property type
+2. Write a SQL query that returns the third-highest price for each property type
